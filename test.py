@@ -1,2 +1,2 @@
 str = "Hello"
-print(str)
+print("String saved - ", str)
